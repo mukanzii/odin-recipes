@@ -1,1 +1,1 @@
-First HTML project from The Odin Project
+A HTML website for Kenyan Recipes

@@ -1,0 +1,28 @@
+.image {
+    height: 300px;
+    width: auto;
+}
+
+.h1,
+.h2 {
+    font-variant: small-caps;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h1{
+    font-size: 48px;
+    color: #6b2626;
+}
+
+.h2{
+    font-size: 38px;
+    color: #744021;
+}
+
+.page-link,
+p,
+li {
+    color: #866734;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
